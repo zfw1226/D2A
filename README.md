@@ -215,10 +215,12 @@ To use LLM for action value conversion, reach `value_comp.py`
 ## Citation D2A
 If you use D2A in your work, please cite the article:
 ```bibtex
-@article{wang2024simulating,
-  title={Simulating Human-like Daily Activities with Desire-driven Autonomy},
-  author={Wang, Yiding and Chen, Yuxuan and Zhong, Fangwei and Ma, Long and Wang, Yizhou},
-  journal={arXiv preprint arXiv:2412.06435},
-  year={2024}
+@inproceedings{
+wang2025simulating,
+title={Simulating Human-like Daily Activities with Desire-driven Autonomy},
+author={Yiding Wang and Yuxuan Chen and Fangwei Zhong and Long Ma and Yizhou Wang},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=3ms8EQY7f8}
 }
 ```
